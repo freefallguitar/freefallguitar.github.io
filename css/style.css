@@ -226,8 +226,6 @@
   }
   
 
-/*
-
 
 h2{
     font-size:30px;
@@ -241,7 +239,7 @@ body{
     background-color: #d4b8a8;
 
 }
-/*images
+/*images*/
 img{
     width: 90%;
     height: 280px;
@@ -255,13 +253,6 @@ img{
 a[href]{
     color:#000000;
     font-size: 22px;
-    text-decoration: none;
-}
-.menu li a{
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 67px;
     text-decoration: none;
 }
 
