@@ -250,7 +250,7 @@ img{
     text-decoration-color: #FFFFFF;
     
 }
-a[href]{
+td a[href]{
     color:#000000;
     font-size: 22px;
     text-decoration: none;
