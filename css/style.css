@@ -12,9 +12,6 @@
     font-size: 22px;
     font-family: 'Lora', serif;
     align-content: center;
- }
-   body {
-    font-family: cursive;
    }
    a {
     text-decoration: none;
@@ -130,7 +127,7 @@
     height:80%;
    }
   }
-
+/*
   @media(min-width:768px){
     * {
       margin: 0;
@@ -224,7 +221,7 @@
         user-select: none;
        }
   }
-  
+  */
 
 
 h2{
